@@ -13,6 +13,6 @@ i have devlope the Space X clone landing page using html and css
 
 original website : https://www.spacex.com/
 
-solution link :
+solution link : https://github.com/Vinoth30457/spacex.git
 
-my project live link:
+my project live link: https://willowy-pasca-70496c.netlify.app
